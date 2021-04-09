@@ -1,0 +1,7 @@
+Se utilizaron las librerias JCalendar y el MySQL conector 8.0.19
+
+
+	Base de datos
+
+Usuario: 	fdb
+Contraseña: 	erikZermeno2001
